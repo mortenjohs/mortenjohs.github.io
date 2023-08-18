@@ -136,7 +136,7 @@ So, there you have it. My “Ludoteca Ideale” of my 2022 discoveries… I can�
 
 * [X] Darwin’s Voyage – I have Kickstarted this (a long, long, **long** time ago) – let’s hope it lives up to the hype… and that it arrives _this_ year… (Spoiler: It has arrived!)
 * [ ] Through Ice and Snow - Another kickstarter with a theme I couldn't resist (I was heavily into the story around the discovery of the Northwest passage some years ago with, among other things,  *The Terror* (both the book and the TV-series are *great*!)) that *should* arrive in 2023…
-* [ ] Revive - Post-apocalyptic multi use cards and tech trees!
+* [X] Revive - Post-apocalyptic multi use cards and tech trees!
 * [ ] Tiletum - Seemingly everyone's favourite T-game...
 * [ ] Marrakech - Feld!
 * [X] The Guild of Merchant Explorers - revisiting some mechanics from Next Station London, but developing them into a... real... game. (Spoiler! I've played it and it is great!)
@@ -146,7 +146,7 @@ So, there you have it. My “Ludoteca Ideale” of my 2022 discoveries… I can�
 * [ ] Carnegie - Nominated to As d'Or 2023 -- with art from Ian O'Toole!
 * [ ] Isle of Cats: Explore & Draw - I like the mother game a lot, and random-writes in general, so I'm curious about this.
 * [ ] Come Together - Worker placement music festival in the '60s?
-* [ ] Planet Unknown -  Lots of buzz around this game that "...innovates on the popular polyomino trend by allowing simultaneous, yet strategic turn-based play".
+* [X] Planet Unknown -  Lots of buzz around this game that "...innovates on the popular polyomino trend by allowing simultaneous, yet strategic turn-based play".
 * [ ] Dead Cells — I’m very curious to see what Bauza and Maublanc manage to massage one of my favorite video games of all time into…
 
 ### From earlier years:
