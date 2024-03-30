@@ -134,7 +134,7 @@ So, there you have it. My “Ludoteca Ideale” of my 2022 discoveries… I can�
 
 ## The games I look forward the most to play in 2023
 
-* [X] Darwin’s Voyage – I have Kickstarted this (a long, long, **long** time ago) – let’s hope it lives up to the hype… and that it arrives _this_ year… (Spoiler: It has arrived!)
+* [X] Darwin’s Journey – I have Kickstarted this (a long, long, **long** time ago) – let’s hope it lives up to the hype… and that it arrives _this_ year… (Spoiler: It has arrived!)
 * [ ] Through Ice and Snow - Another kickstarter with a theme I couldn't resist (I was heavily into the story around the discovery of the Northwest passage some years ago with, among other things,  *The Terror* (both the book and the TV-series are *great*!)) that *should* arrive in 2023…
 * [X] Revive - Post-apocalyptic multi use cards and tech trees!
 * [ ] Tiletum - Seemingly everyone's favourite T-game...
@@ -155,7 +155,7 @@ The Castles of Tuscany, The Search for Planet X, Under Falling Skies, Praga Capu
 
 ### Shelf of shame/opportunity
 
-* [ ] Crystal Palace!
+* [X] Crystal Palace!
 * [ ] The Nano9Games: Railways, City Planner, and Empire – These ones arrived just before Yule, so I still haven't gotten them to the table...
 * Expansions to:
     * [ ] Viscounts of the West Kingdom (This one arrived not long ago!)
