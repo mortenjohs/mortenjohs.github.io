@@ -40,7 +40,7 @@ But first some key figures -- courtesy of [BG Stats](https://www.bgstatsapp.com/
 
 Enough numbers, here’s my list of noteworthy new-to-me games from 2023. (As usual this is not really my favourite nine games, but rather a kind of optimal games library of games I played in 2023.)
 
-[![](/assets/img/posts/2023-top9new/2023-top9.jpg)](https://www.instagram.com/p/Cb2Szwos8UE/)
+[![](/assets/img/posts/2023-top9new/2023-top9.jpg)](https://www.instagram.com/p/C5aqzRCN6Po/)
 
 ### Filler games
 
