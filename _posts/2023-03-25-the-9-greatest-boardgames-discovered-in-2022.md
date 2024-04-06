@@ -40,7 +40,7 @@ But first some key figures -- courtesy of [BG Stats](https://www.bgstatsapp.com/
 
 Enough numbers, here’s my list of noteworthy new-to-me games from 2022. (As usual this is not really my favourite nine games, but rather a kind of optimal games library of games I played in 2022.)
 
-[![](/assets/img/posts/2022-top9new/2022-top9.jpg)](https://www.instagram.com/p/Cb2Szwos8UE/)
+[![](/assets/img/posts/2022-top9new/2022-top9.jpg)](/assets/img/posts/2022-top9new/2022-top9.jpg)
 
 ### Filler games
 
@@ -96,7 +96,7 @@ I've never played the 'real' Fleet game, but the roll, draft and write version, 
 
 [![](/assets/img/posts/2022-top9new/fleet.jpg)](/assets/img/posts/2022-top9new/fleet.jpg)
 
-_Favourite mechanism_: The I-pick-you-pick-then-everyone-gets-the-leftovers twist on dice crafting works great here, methinks.
+_Favourite mechanism_: The I-pick-you-pick-then-everyone-gets-the-leftovers twist on dice drafting works great here, methinks.
 
 ### Enthusiast game
 
