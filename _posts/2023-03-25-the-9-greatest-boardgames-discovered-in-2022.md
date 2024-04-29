@@ -168,69 +168,69 @@ Also, for reference, here's [my list from 2021](../2022-04-05-the-9-greatest-boa
 ## Data
 ### All new-to-me games played 2022
 
-|Name|Year|Rank|Average|Weight|Age|🕐|👥|
+|Name|Year|Rank|Average|Weight|Min Age|🕐|👥|
 |----|----|----|-------|------|---|---|--|
-|[Abandon All Artichokes](https://boardgamegeek.com/boardgame/302260)|2020|1655|6.66457|1.3187|10+|20|2-4|
-|[Akropolis](https://boardgamegeek.com/boardgame/357563)|2022|1143|7.70067|1.6944|8+|30|2-4|
-|[Ark Nova](https://boardgamegeek.com/boardgame/342942)|2021|4|8.56425|3.7107|14+|150|1-4|
-|[Bag of Chips](https://boardgamegeek.com/boardgame/344114)|2021|4376|6.7348|1|8+|20|2-5|
-|[Cartaventura: Caravanes](https://boardgamegeek.com/boardgame/357316)|2022|13553|7.19878|1|10+|60|1-6|
-|[Cartzzle: Brocéliande](https://boardgamegeek.com/boardgame/370986)|2021|Not Ranked|7.08333|0|8+|45|1-4|
-|[Cascadia](https://boardgamegeek.com/boardgame/295947)|2021|51|7.99793|1.8389|10+|45|1-4|
-|[Criss Cross](https://boardgamegeek.com/boardgame/220988)|2017|4742|6.46127|1|8+|10|1-6|
-|[Dune: Imperium](https://boardgamegeek.com/boardgame/316554)|2020|12|8.36888|3.0059|14+|120|1-4|
-|[Everdell](https://boardgamegeek.com/boardgame/199792)|2018|31|8.06943|2.8013|13+|80|1-4|
-|[Fjords](https://boardgamegeek.com/boardgame/322564)|2022|3245|7.10646|1.4348|8+|45|2-4|
-|[Fleet: The Dice Game (Second Edition)](https://boardgamegeek.com/boardgame/328326)|2020|1901|7.8854|2.1364|8+|45|1-4|
-|[Great Western Trail (Second Edition)](https://boardgamegeek.com/boardgame/341169)|2021|46|8.47438|3.7079|12+|150|1-4|
-|[Heat: Pedal to the Metal](https://boardgamegeek.com/boardgame/366013)|2022|231|8.21423|2.1527|10+|60|1-6|
-|[Infernal Wagon](https://boardgamegeek.com/boardgame/358805)|2022|14015|6.45224|1.5|7+|7|2-5|
-|[Jamaica](https://boardgamegeek.com/boardgame/28023)|2007|550|7.06514|1.6572|8+|60|2-6|
-|[Just One](https://boardgamegeek.com/boardgame/254640)|2018|145|7.60176|1.0487|8+|20|3-7|
-|[L.A.M.A. Party Edition](https://boardgamegeek.com/boardgame/313473)|2020|3263|7.02136|1.0667|8+|20|2-6|
-|[L.L.A.M.A.](https://boardgamegeek.com/boardgame/266083)|2019|1747|6.48881|1.057|8+|20|2-6|
-|[Moon Adventure](https://boardgamegeek.com/boardgame/330403)|2021|5456|6.71072|2.3|10+|40|2-5|
-|[New Frontiers](https://boardgamegeek.com/boardgame/255692)|2018|718|7.45719|2.8864|14+|75|2-5|
-|[Next Station: London](https://boardgamegeek.com/boardgame/353545)|2022|1708|7.38338|1.3333|8+|30|1-4|
-|[PARKS](https://boardgamegeek.com/boardgame/266524)|2019|125|7.7175|2.1426|10+|60|1-5|
-|[Paleo](https://boardgamegeek.com/boardgame/300531)|2020|206|7.77427|2.6236|10+|60|1-4|
-|[Quacks & Co.: Quedlinburg Dash](https://boardgamegeek.com/boardgame/354886)|2022|4246|7.39945|1.3077|6+|25|2-4|
-|[SCOUT](https://boardgamegeek.com/boardgame/291453)|2019|321|7.75984|1.3516|9+|15|2-5|
-|[Sea Salt & Paper](https://boardgamegeek.com/boardgame/367220)|2022|3219|7.12086|1.4|8+|45|2-4|
-|[Songbirds](https://boardgamegeek.com/boardgame/212765)|2016|2559|6.87653|1.6857|8+|20|1-4|
-|[Space Base](https://boardgamegeek.com/boardgame/242302)|2018|186|7.56849|2.1051|14+|60|2-5|
-|[Star Wars: Jabba's Palace – A Love Letter Game](https://boardgamegeek.com/boardgame/353470)|2022|1686|7.33412|1.4091|10+|20|2-6|
-|[Star Wars: Unlock!](https://boardgamegeek.com/boardgame/312267)|2020|1374|7.07961|1.8438|10+|60|1-6|
-|[Terraforming Mars: Ares Expedition](https://boardgamegeek.com/boardgame/328871)|2021|160|7.72191|2.915|14+|60|1-4|
-|[Tigris & Euphrates](https://boardgamegeek.com/boardgame/42)|1997|103|7.70313|3.5017|12+|90|2-4|
-|[Unlock!: Escape Adventures – Noël en Juillet](https://boardgamegeek.com/boardgame/282421)|2018|13835|6.71135|2|10+|30|1-6|
-|[Unlock!: Game Adventures](https://boardgamegeek.com/boardgame/350636)|2021|3088|8.10855|2.6|10+|60|1-5|
-|[Unlock!: Heroic Adventures](https://boardgamegeek.com/boardgame/266121)|2018|595|7.66443|2.2424|10+|60|1-6|
-|[Unlock!: Une Aventure – Ralph Azham: Le Foie de l'Axolotl](https://boardgamegeek.com/boardgame/285128)|2019|16628|6.084|1|10+|30|1-6|
-|[Unpublished Prototype](https://boardgamegeek.com/boardgame/18291)|0|3267|6.91795|2.5325|0+|0|0-0|
-|[Via Nebula](https://boardgamegeek.com/boardgame/191231)|2016|1016|7.03345|2.2195|12+|60|2-4|
-|[Wind the Film!](https://boardgamegeek.com/boardgame/215471)|2016|2508|7.4098|2.0667|12+|20|2-4|
+|[Abandon All Artichokes](https://boardgamegeek.com/boardgame/302260)|2020|1655|6.66457|1.3187|10|20|2-4|
+|[Akropolis](https://boardgamegeek.com/boardgame/357563)|2022|1143|7.70067|1.6944|8|30|2-4|
+|[Ark Nova](https://boardgamegeek.com/boardgame/342942)|2021|4|8.56425|3.7107|14|150|1-4|
+|[Bag of Chips](https://boardgamegeek.com/boardgame/344114)|2021|4376|6.7348|1|8|20|2-5|
+|[Cartaventura: Caravanes](https://boardgamegeek.com/boardgame/357316)|2022|13553|7.19878|1|10|60|1-6|
+|[Cartzzle: Brocéliande](https://boardgamegeek.com/boardgame/370986)|2021|Not Ranked|7.08333|0|8|45|1-4|
+|[Cascadia](https://boardgamegeek.com/boardgame/295947)|2021|51|7.99793|1.8389|10|45|1-4|
+|[Criss Cross](https://boardgamegeek.com/boardgame/220988)|2017|4742|6.46127|1|8|10|1-6|
+|[Dune: Imperium](https://boardgamegeek.com/boardgame/316554)|2020|12|8.36888|3.0059|14|120|1-4|
+|[Everdell](https://boardgamegeek.com/boardgame/199792)|2018|31|8.06943|2.8013|13|80|1-4|
+|[Fjords](https://boardgamegeek.com/boardgame/322564)|2022|3245|7.10646|1.4348|8|45|2-4|
+|[Fleet: The Dice Game (Second Edition)](https://boardgamegeek.com/boardgame/328326)|2020|1901|7.8854|2.1364|8|45|1-4|
+|[Great Western Trail (Second Edition)](https://boardgamegeek.com/boardgame/341169)|2021|46|8.47438|3.7079|12|150|1-4|
+|[Heat: Pedal to the Metal](https://boardgamegeek.com/boardgame/366013)|2022|231|8.21423|2.1527|10|60|1-6|
+|[Infernal Wagon](https://boardgamegeek.com/boardgame/358805)|2022|14015|6.45224|1.5|7|7|2-5|
+|[Jamaica](https://boardgamegeek.com/boardgame/28023)|2007|550|7.06514|1.6572|8|60|2-6|
+|[Just One](https://boardgamegeek.com/boardgame/254640)|2018|145|7.60176|1.0487|8|20|3-7|
+|[L.A.M.A. Party Edition](https://boardgamegeek.com/boardgame/313473)|2020|3263|7.02136|1.0667|8|20|2-6|
+|[L.L.A.M.A.](https://boardgamegeek.com/boardgame/266083)|2019|1747|6.48881|1.057|8|20|2-6|
+|[Moon Adventure](https://boardgamegeek.com/boardgame/330403)|2021|5456|6.71072|2.3|10|40|2-5|
+|[New Frontiers](https://boardgamegeek.com/boardgame/255692)|2018|718|7.45719|2.8864|14|75|2-5|
+|[Next Station: London](https://boardgamegeek.com/boardgame/353545)|2022|1708|7.38338|1.3333|8|30|1-4|
+|[PARKS](https://boardgamegeek.com/boardgame/266524)|2019|125|7.7175|2.1426|10|60|1-5|
+|[Paleo](https://boardgamegeek.com/boardgame/300531)|2020|206|7.77427|2.6236|10|60|1-4|
+|[Quacks & Co.: Quedlinburg Dash](https://boardgamegeek.com/boardgame/354886)|2022|4246|7.39945|1.3077|6|25|2-4|
+|[SCOUT](https://boardgamegeek.com/boardgame/291453)|2019|321|7.75984|1.3516|9|15|2-5|
+|[Sea Salt & Paper](https://boardgamegeek.com/boardgame/367220)|2022|3219|7.12086|1.4|8|45|2-4|
+|[Songbirds](https://boardgamegeek.com/boardgame/212765)|2016|2559|6.87653|1.6857|8|20|1-4|
+|[Space Base](https://boardgamegeek.com/boardgame/242302)|2018|186|7.56849|2.1051|14|60|2-5|
+|[Star Wars: Jabba's Palace – A Love Letter Game](https://boardgamegeek.com/boardgame/353470)|2022|1686|7.33412|1.4091|10|20|2-6|
+|[Star Wars: Unlock!](https://boardgamegeek.com/boardgame/312267)|2020|1374|7.07961|1.8438|10|60|1-6|
+|[Terraforming Mars: Ares Expedition](https://boardgamegeek.com/boardgame/328871)|2021|160|7.72191|2.915|14|60|1-4|
+|[Tigris & Euphrates](https://boardgamegeek.com/boardgame/42)|1997|103|7.70313|3.5017|12|90|2-4|
+|[Unlock!: Escape Adventures – Noël en Juillet](https://boardgamegeek.com/boardgame/282421)|2018|13835|6.71135|2|10|30|1-6|
+|[Unlock!: Game Adventures](https://boardgamegeek.com/boardgame/350636)|2021|3088|8.10855|2.6|10|60|1-5|
+|[Unlock!: Heroic Adventures](https://boardgamegeek.com/boardgame/266121)|2018|595|7.66443|2.2424|10|60|1-6|
+|[Unlock!: Une Aventure – Ralph Azham: Le Foie de l'Axolotl](https://boardgamegeek.com/boardgame/285128)|2019|16628|6.084|1|10|30|1-6|
+|[Unpublished Prototype](https://boardgamegeek.com/boardgame/18291)|0|3267|6.91795|2.5325|0|0|0-0|
+|[Via Nebula](https://boardgamegeek.com/boardgame/191231)|2016|1016|7.03345|2.2195|12|60|2-4|
+|[Wind the Film!](https://boardgamegeek.com/boardgame/215471)|2016|2508|7.4098|2.0667|12|20|2-4|
 {:.sortable}
 
 ### Expansions
 
 |Name|Year|Rank|Average|Weight|Age|🕐|👥|
 |----|----|----|-------|------|---|---|--|
-|[Architects of the West Kingdom: Crossover Promo Pack](https://boardgamegeek.com/boardgame/343489)|2022|Not Ranked|7.93902|2|12+|80|1-6|
-|[Architects of the West Kingdom: Works of Wonder](https://boardgamegeek.com/boardgame/327245)|2022|Not Ranked|8.07645|3.375|12+|80|1-5|
-|[Dune: Imperium – Rise of Ix](https://boardgamegeek.com/boardgame/342031)|2022|Not Ranked|8.80121|3.1408|13+|120|1-4|
-|[Evolution: Promo Pack III](https://boardgamegeek.com/boardgame/206072)|2016|Not Ranked|7.59772|2.25|12+|0|2-6|
-|[Jamaica: The Crew](https://boardgamegeek.com/boardgame/204807)|2017|Not Ranked|7.81218|1.9474|8+|75|2-6|
-|[Lost Ruins of Arnak: Alicorn Promo Card](https://boardgamegeek.com/boardgame/349330)|2021|Not Ranked|7.83603|1.6667|12+|120|1-4|
-|[Lost Ruins of Arnak: Expedition Leaders](https://boardgamegeek.com/boardgame/341254)|2021|Not Ranked|8.72604|3.1084|12+|120|1-4|
-|[Lost Ruins of Arnak: Saxophone Promo Card](https://boardgamegeek.com/boardgame/336817)|2021|Not Ranked|7.88175|2.5|12+|120|1-4|
-|[Paladins of the West Kingdom: 2019 Promos](https://boardgamegeek.com/boardgame/274782)|2019|Not Ranked|7.88484|3|12+|120|1-4|
-|[Paladins of the West Kingdom: City of Crowns](https://boardgamegeek.com/boardgame/317980)|2021|Not Ranked|8.27775|4.1364|12+|120|1-4|
-|[Railways of Great Britain](https://boardgamegeek.com/boardgame/133412)|2013|Not Ranked|7.90581|2.7273|13+|90|2-5|
-|[Railways of Portugal](https://boardgamegeek.com/boardgame/266369)|2019|Not Ranked|8.01905|2.6667|10+|120|2-4|
-|[Railways of the World: Event Deck](https://boardgamegeek.com/boardgame/99692)|2011|Not Ranked|7.56273|2.6875|12+|120|2-6|
-|[Terraforming Mars: Ares Expedition – Promo Cards](https://boardgamegeek.com/boardgame/344634)|2021|Not Ranked|8.09767|3|14+|60|1-4|
-|[Trails of Tucana: Ferry](https://boardgamegeek.com/boardgame/340679)|2021|Not Ranked|7.72413|2|8+|0|1-8|
+|[Architects of the West Kingdom: Crossover Promo Pack](https://boardgamegeek.com/boardgame/343489)|2022|Not Ranked|7.93902|2|12|80|1-6|
+|[Architects of the West Kingdom: Works of Wonder](https://boardgamegeek.com/boardgame/327245)|2022|Not Ranked|8.07645|3.375|12|80|1-5|
+|[Dune: Imperium – Rise of Ix](https://boardgamegeek.com/boardgame/342031)|2022|Not Ranked|8.80121|3.1408|13|120|1-4|
+|[Evolution: Promo Pack III](https://boardgamegeek.com/boardgame/206072)|2016|Not Ranked|7.59772|2.25|12|0|2-6|
+|[Jamaica: The Crew](https://boardgamegeek.com/boardgame/204807)|2017|Not Ranked|7.81218|1.9474|8|75|2-6|
+|[Lost Ruins of Arnak: Alicorn Promo Card](https://boardgamegeek.com/boardgame/349330)|2021|Not Ranked|7.83603|1.6667|12|120|1-4|
+|[Lost Ruins of Arnak: Expedition Leaders](https://boardgamegeek.com/boardgame/341254)|2021|Not Ranked|8.72604|3.1084|12|120|1-4|
+|[Lost Ruins of Arnak: Saxophone Promo Card](https://boardgamegeek.com/boardgame/336817)|2021|Not Ranked|7.88175|2.5|12|120|1-4|
+|[Paladins of the West Kingdom: 2019 Promos](https://boardgamegeek.com/boardgame/274782)|2019|Not Ranked|7.88484|3|12|120|1-4|
+|[Paladins of the West Kingdom: City of Crowns](https://boardgamegeek.com/boardgame/317980)|2021|Not Ranked|8.27775|4.1364|12|120|1-4|
+|[Railways of Great Britain](https://boardgamegeek.com/boardgame/133412)|2013|Not Ranked|7.90581|2.7273|13|90|2-5|
+|[Railways of Portugal](https://boardgamegeek.com/boardgame/266369)|2019|Not Ranked|8.01905|2.6667|10|120|2-4|
+|[Railways of the World: Event Deck](https://boardgamegeek.com/boardgame/99692)|2011|Not Ranked|7.56273|2.6875|12|120|2-6|
+|[Terraforming Mars: Ares Expedition – Promo Cards](https://boardgamegeek.com/boardgame/344634)|2021|Not Ranked|8.09767|3|14|60|1-4|
+|[Trails of Tucana: Ferry](https://boardgamegeek.com/boardgame/340679)|2021|Not Ranked|7.72413|2|8|0|1-8|
 {:.sortable}
 
 ### Data from ingress in table form

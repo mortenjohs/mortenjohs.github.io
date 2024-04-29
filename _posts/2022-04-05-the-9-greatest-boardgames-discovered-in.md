@@ -164,7 +164,7 @@ Also, for reference, here's [my list from 2020](../2021-01-31-the-9-greatest-boa
 All new-to-me games played 2021
 -------------------------------
 
-|Name|Year|Rank|Average|Weight|Age|🕐|👥|
+|Name|Year|Rank|Average|Weight|Min Age|🕐|👥|
 |----|----|----|-------|------|---|-|-|
 |[15 Days](https://boardgamegeek.com/boardgame/298619)|2020|6044|6.67788|1.8667|14|20|1-4|
 |[A Feast for Odin](https://boardgamegeek.com/boardgame/177736)|2016|22|8.18608|3.855|12|120|1-4|
@@ -213,7 +213,7 @@ All new-to-me games played 2021
 
 ### Expansions
 
-|Name|Year|Rank|Average|Weight|Age|🕐|👥|
+|Name|Year|Rank|Average|Weight|Min Age|🕐|👥|
 |----|----|----|-------|------|---|-|-|
 |[Carcassonne: Expansion 2 – Traders & Builders](https://boardgamegeek.com/boardgame/5405)|2003|Not Ranked|7.61243|2.0641|13|60|2-6|
 |[Circle the Wagons: Lone Cowboy](https://boardgamegeek.com/boardgame/232835)|2017|Not Ranked|6.70648|2|8|15|1-1|

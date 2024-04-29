@@ -154,7 +154,7 @@ Also, for reference, here's [my list from 2019](../2020-02-08-the-9-bestish-game
 
 ## All new-to-me games played 2020
 
-|Name|Year|Rank|Average|Weight|Age|🕐|👥|
+|Name|Year|Rank|Average|Weight|Min Age|🕐|👥|
 |----|----|----|-------|------|---|-|-|
 |[Agricola: All Creatures Big and Small](https://boardgamegeek.com/boardgame/119890)|2012|343|7.35174|2.3504|13|30|2-2|
 |[Boomerang: Europe](https://boardgamegeek.com/boardgame/300367)|2020|3876|6.91342|1.7692|10|30|2-4|
