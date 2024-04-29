@@ -131,7 +131,7 @@ So, there you have it. My “Ludoteca Ideale” of my 2023 discoveries… I can�
 
 ## The games I look forward the most to play in 2024
 
-* [ ] Great Western Trail: New Zealand
+* [X] Great Western Trail: New Zealand
 * [ ] Footprints - "Lead a stone age clan to the mountains before the land is flooded." from a group of Norwegian designers.
 * [ ] Pirates of Maracaibo - I really like Maracaibo, and this seems to be a reimagining from Pfister and co.
 * [X] Faraway - Lots of buzz around this towards the end of the year. (Spoiler: I have played it and it is a great little game!)
@@ -160,57 +160,57 @@ The Castles of Tuscany, The Search for Planet X, Under Falling Skies, Praga Capu
     * [ ] Paleo
     * [ ] Cascadia
 
-Also, for reference, here's [my list from 2022](../2023 ---- /).
+Also, for reference, here's [my list from 2022](../2023-03-25-the-9-greatest-boardgames-discovered-in-2022/).
 
 ## Data
 ### All new-to-me games played 2023
 
-|Name|Year|Rank|Average|Weight|Age|🕐|👥|
+|Name|Year|Rank|Average|Weight|Min Age|🕐|👥|
 |----|----|----|-------|------|---|-|-|
-|[7 Wonders: Architects](https://boardgamegeek.com/boardgame/346703)|2021|813|7.04314|1.337|8+|25|2-7|
-|[Barrage](https://boardgamegeek.com/boardgame/251247)|2019|35|8.18046|4.095|14+|120|1-4|
-|[Blackout: Hong Kong](https://boardgamegeek.com/boardgame/262215)|2018|520|7.4495|3.49|14+|150|1-4|
-|[Civilization: A New Dawn](https://boardgamegeek.com/boardgame/233247)|2017|683|7.26459|3.1509|14+|120|2-4|
-|[Dale of Merchants](https://boardgamegeek.com/boardgame/176165)|2015|843|7.18024|2.0774|10+|30|2-4|
-|[Darwin's Journey](https://boardgamegeek.com/boardgame/322289)|2023|274|8.22452|3.8321|14+|120|1-4|
-|[Deep Dive](https://boardgamegeek.com/boardgame/376747)|2023|3798|6.6951|1.1053|10+|20|1-6|
-|[Detective Club](https://boardgamegeek.com/boardgame/256788)|2018|865|7.37294|1.2459|8+|45|4-8|
-|[Dorfromantik: The Board Game](https://boardgamegeek.com/boardgame/370591)|2022|592|7.68748|1.6667|8+|60|1-6|
-|[Earth](https://boardgamegeek.com/boardgame/350184)|2023|209|7.80651|2.877|13+|90|1-5|
-|[Flashback: Zombie Kidz](https://boardgamegeek.com/boardgame/364942)|2022|6998|7.48148|1.3333|7+|30|1-4|
-|[Formz](https://boardgamegeek.com/boardgame/289986)|2020|Not Ranked|6.7316|1.5|7+|30|2-9|
-|[Hadrian's Wall](https://boardgamegeek.com/boardgame/304783)|2021|153|7.97453|3.1338|12+|60|1-6|
-|[Hansa Teutonica](https://boardgamegeek.com/boardgame/43015)|2009|125|7.7341|3.0946|12+|90|2-5|
-|[IKI](https://boardgamegeek.com/boardgame/177478)|2015|507|7.67671|3.0329|14+|90|2-4|
-|[Living Forest](https://boardgamegeek.com/boardgame/328479)|2021|761|7.30019|2.2053|10+|40|1-4|
-|[Magic Mountain](https://boardgamegeek.com/boardgame/341919)|2021|5128|6.81631|1|5+|15|1-6|
-|[Marshmallow Test](https://boardgamegeek.com/boardgame/302270)|2020|4694|7.02255|1.5|10+|20|2-5|
-|[Mascarade](https://boardgamegeek.com/boardgame/139030)|2013|1460|6.57638|1.5275|10+|30|2-13|
-|[MicroMacro: Crime City – Full House](https://boardgamegeek.com/boardgame/338834)|2021|569|7.71417|1.2131|10+|45|1-4|
-|[Musse & Helium](https://boardgamegeek.com/boardgame/381480)|2022|Not Ranked|5.33333|1|5+|30|2-6|
-|[My City: Roll & Build](https://boardgamegeek.com/boardgame/351476)|2022|2592|7.28142|1.4545|10+|30|1-6|
-|[Naturopolis](https://boardgamegeek.com/boardgame/352606)|2023|4123|7.93342|1.5714|8+|20|1-4|
-|[Next Station: Tokyo](https://boardgamegeek.com/boardgame/380165)|2023|4225|7.0417|1.5|8+|30|1-4|
-|[No Mercy](https://boardgamegeek.com/boardgame/339214)|2021|3248|7.20482|1.05|8+|20|2-5|
-|[P'achakuna](https://boardgamegeek.com/boardgame/321596)|2021|4414|6.9795|1.9091|8+|60|2-2|
-|[Planet Unknown](https://boardgamegeek.com/boardgame/258779)|2022|248|7.97082|2.2057|10+|80|1-6|
-|[Point City](https://boardgamegeek.com/boardgame/368017)|2023|1492|7.25685|1.6042|10+|30|1-4|
-|[Revive](https://boardgamegeek.com/boardgame/332772)|2022|282|8.20059|3.405|14+|120|1-4|
-|[Santo Domingo](https://boardgamegeek.com/boardgame/218995)|2017|3641|6.61146|1.6818|8+|30|2-6|
-|[Savannah Park](https://boardgamegeek.com/boardgame/339484)|2021|1961|7.10013|1.7059|8+|40|1-4|
-|[Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures](https://boardgamegeek.com/boardgame/204305)|2016|416|7.61473|2.2051|10+|120|1-8|
-|[Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases](https://boardgamegeek.com/boardgame/2511)|1982|136|7.65199|2.6808|13+|120|1-8|
-|[Sky Team](https://boardgamegeek.com/boardgame/373106)|2023|346|8.18719|2.046|12+|15|2-2|
-|[Skyjo](https://boardgamegeek.com/boardgame/204135)|2015|1939|6.7512|1.0732|8+|45|2-8|
-|[Smitten](https://boardgamegeek.com/boardgame/369634)|2022|6256|6.42165|1.0769|10+|10|1-2|
-|[Splendor Duel](https://boardgamegeek.com/boardgame/364073)|2022|189|7.99299|1.9846|10+|30|2-2|
-|[Sushi Go Party!](https://boardgamegeek.com/boardgame/192291)|2016|241|7.40629|1.3055|8+|20|2-8|
-|[That's Not a Hat](https://boardgamegeek.com/boardgame/375651)|2023|3455|7.07226|1|8+|15|3-8|
-|[The Fox in the Forest](https://boardgamegeek.com/boardgame/221965)|2017|541|7.12426|1.5659|10+|30|2-2|
-|[The Guild of Merchant Explorers](https://boardgamegeek.com/boardgame/350933)|2022|567|7.75634|2.0303|14+|45|1-4|
-|[Ticket to Ride: Amsterdam](https://boardgamegeek.com/boardgame/309113)|2020|2587|7.01185|1.5263|8+|15|2-4|
-|[Village Green](https://boardgamegeek.com/boardgame/300583)|2020|1997|6.97441|1.8958|14+|30|1-5|
-|[Voyages](https://boardgamegeek.com/boardgame/350736)|2021|1675|7.48179|1.8298|0+|30|1-100|
+|[7 Wonders: Architects](https://boardgamegeek.com/boardgame/346703)|2021|813|7.04314|1.337|8|25|2-7|
+|[Barrage](https://boardgamegeek.com/boardgame/251247)|2019|35|8.18046|4.095|14|120|1-4|
+|[Blackout: Hong Kong](https://boardgamegeek.com/boardgame/262215)|2018|520|7.4495|3.49|14|150|1-4|
+|[Civilization: A New Dawn](https://boardgamegeek.com/boardgame/233247)|2017|683|7.26459|3.1509|14|120|2-4|
+|[Dale of Merchants](https://boardgamegeek.com/boardgame/176165)|2015|843|7.18024|2.0774|10|30|2-4|
+|[Darwin's Journey](https://boardgamegeek.com/boardgame/322289)|2023|274|8.22452|3.8321|14|120|1-4|
+|[Deep Dive](https://boardgamegeek.com/boardgame/376747)|2023|3798|6.6951|1.1053|10|20|1-6|
+|[Detective Club](https://boardgamegeek.com/boardgame/256788)|2018|865|7.37294|1.2459|8|45|4-8|
+|[Dorfromantik: The Board Game](https://boardgamegeek.com/boardgame/370591)|2022|592|7.68748|1.6667|8|60|1-6|
+|[Earth](https://boardgamegeek.com/boardgame/350184)|2023|209|7.80651|2.877|13|90|1-5|
+|[Flashback: Zombie Kidz](https://boardgamegeek.com/boardgame/364942)|2022|6998|7.48148|1.3333|7|30|1-4|
+|[Formz](https://boardgamegeek.com/boardgame/289986)|2020|Not Ranked|6.7316|1.5|7|30|2-9|
+|[Hadrian's Wall](https://boardgamegeek.com/boardgame/304783)|2021|153|7.97453|3.1338|12|60|1-6|
+|[Hansa Teutonica](https://boardgamegeek.com/boardgame/43015)|2009|125|7.7341|3.0946|12|90|2-5|
+|[IKI](https://boardgamegeek.com/boardgame/177478)|2015|507|7.67671|3.0329|14|90|2-4|
+|[Living Forest](https://boardgamegeek.com/boardgame/328479)|2021|761|7.30019|2.2053|10|40|1-4|
+|[Magic Mountain](https://boardgamegeek.com/boardgame/341919)|2021|5128|6.81631|1|5|15|1-6|
+|[Marshmallow Test](https://boardgamegeek.com/boardgame/302270)|2020|4694|7.02255|1.5|10|20|2-5|
+|[Mascarade](https://boardgamegeek.com/boardgame/139030)|2013|1460|6.57638|1.5275|10|30|2-13|
+|[MicroMacro: Crime City – Full House](https://boardgamegeek.com/boardgame/338834)|2021|569|7.71417|1.2131|10|45|1-4|
+|[Musse & Helium](https://boardgamegeek.com/boardgame/381480)|2022|Not Ranked|5.33333|1|5|30|2-6|
+|[My City: Roll & Build](https://boardgamegeek.com/boardgame/351476)|2022|2592|7.28142|1.4545|10|30|1-6|
+|[Naturopolis](https://boardgamegeek.com/boardgame/352606)|2023|4123|7.93342|1.5714|8|20|1-4|
+|[Next Station: Tokyo](https://boardgamegeek.com/boardgame/380165)|2023|4225|7.0417|1.5|8|30|1-4|
+|[No Mercy](https://boardgamegeek.com/boardgame/339214)|2021|3248|7.20482|1.05|8|20|2-5|
+|[P'achakuna](https://boardgamegeek.com/boardgame/321596)|2021|4414|6.9795|1.9091|8|60|2-2|
+|[Planet Unknown](https://boardgamegeek.com/boardgame/258779)|2022|248|7.97082|2.2057|10|80|1-6|
+|[Point City](https://boardgamegeek.com/boardgame/368017)|2023|1492|7.25685|1.6042|10|30|1-4|
+|[Revive](https://boardgamegeek.com/boardgame/332772)|2022|282|8.20059|3.405|14|120|1-4|
+|[Santo Domingo](https://boardgamegeek.com/boardgame/218995)|2017|3641|6.61146|1.6818|8|30|2-6|
+|[Savannah Park](https://boardgamegeek.com/boardgame/339484)|2021|1961|7.10013|1.7059|8|40|1-4|
+|[Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures](https://boardgamegeek.com/boardgame/204305)|2016|416|7.61473|2.2051|10|120|1-8|
+|[Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases](https://boardgamegeek.com/boardgame/2511)|1982|136|7.65199|2.6808|13|120|1-8|
+|[Sky Team](https://boardgamegeek.com/boardgame/373106)|2023|346|8.18719|2.046|12|15|2-2|
+|[Skyjo](https://boardgamegeek.com/boardgame/204135)|2015|1939|6.7512|1.0732|8|45|2-8|
+|[Smitten](https://boardgamegeek.com/boardgame/369634)|2022|6256|6.42165|1.0769|10|10|1-2|
+|[Splendor Duel](https://boardgamegeek.com/boardgame/364073)|2022|189|7.99299|1.9846|10|30|2-2|
+|[Sushi Go Party!](https://boardgamegeek.com/boardgame/192291)|2016|241|7.40629|1.3055|8|20|2-8|
+|[That's Not a Hat](https://boardgamegeek.com/boardgame/375651)|2023|3455|7.07226|1|8|15|3-8|
+|[The Fox in the Forest](https://boardgamegeek.com/boardgame/221965)|2017|541|7.12426|1.5659|10|30|2-2|
+|[The Guild of Merchant Explorers](https://boardgamegeek.com/boardgame/350933)|2022|567|7.75634|2.0303|14|45|1-4|
+|[Ticket to Ride: Amsterdam](https://boardgamegeek.com/boardgame/309113)|2020|2587|7.01185|1.5263|8|15|2-4|
+|[Village Green](https://boardgamegeek.com/boardgame/300583)|2020|1997|6.97441|1.8958|14|30|1-5|
+|[Voyages](https://boardgamegeek.com/boardgame/350736)|2021|1675|7.48179|1.8298|0|30|1-100|
 {:.sortable}
 
 ### Data from ingress in table form
