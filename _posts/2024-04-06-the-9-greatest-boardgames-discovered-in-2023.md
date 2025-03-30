@@ -132,7 +132,7 @@ So, there you have it. My “Ludoteca Ideale” of my 2023 discoveries… I can�
 ## The games I look forward the most to play in 2024
 
 * [X] Great Western Trail: New Zealand
-* [ ] Footprints - "Lead a stone age clan to the mountains before the land is flooded." from a group of Norwegian designers.
+* [X] Footprints - "Lead a stone age clan to the mountains before the land is flooded." from a group of Norwegian designers.
 * [ ] Pirates of Maracaibo - I really like Maracaibo, and this seems to be a reimagining from Pfister and co.
 * [X] Faraway - Lots of buzz around this towards the end of the year. (Spoiler: I have played it and it is a great little game!)
 * [ ] The White Castle
