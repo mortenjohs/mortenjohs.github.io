@@ -78,7 +78,7 @@ _Favourite mechanism_: The meta game of communicating _through_ the placement of
 
 _Favourite mechanism_: The round robin tile drafting mechanism is clearly _both_ the gimmick _and_ the hook of this game, It puts a whole new... spin... on (hate) drafting.
 
-[Earth](https://boardgamegeek.com/boardgame/350184) was a game that received a lot of hype around it's release on Earth Day here in France. It shares _kind_ of somewhat some DNA from Wingspan. For example, it is a tableau builder with a nature inspired theme and a huge deck of unique cards. In Earth you create landscapes, grow flora, and score bonus points with fauna.
+[Earth](https://boardgamegeek.com/boardgame/350184) was a game that received a lot of hype around its release on Earth Day here in France. It shares _kind_ of somewhat some DNA from Wingspan. For example, it is a tableau builder with a nature inspired theme and a huge deck of unique cards. In Earth you create landscapes, grow flora, and score bonus points with fauna.
 
 [![](/assets/img/posts/2023-top9new/earth.jpg)](/assets/img/posts/2023-top9new/earth.jpg)
 
